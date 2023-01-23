@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "prop-types": "^15.8.1",
+    "react-bootstrap": "^2.7.0",
+    "react-bootstrap-validation": "^0.1.11",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.2.6",
+    "@types/react-bootstrap": "^0.32.32"
+  }
+}
